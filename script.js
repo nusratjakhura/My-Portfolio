@@ -13,10 +13,10 @@ function checkZoom() {
     }
 }
 
-// Detect browser zoom
+
 window.addEventListener("resize", checkZoom);
 
-// Detect pinch zoom on touchpad
+
 window.addEventListener("wheel", (event) => {
     if (event.ctrlKey) {
         zoomLevel *= event.deltaY > 0 ? 0.9 : 1.1;
@@ -24,7 +24,7 @@ window.addEventListener("wheel", (event) => {
     }
 });
 
-// Navigation function
+
 function navigateTo(page) {
     window.location.href = page;
 }
