@@ -6,11 +6,7 @@ Welcome to my Personal Portfolio Website! This project is a simple yet interacti
 
 🏠 Landing Page
 
-🌷 Displays "Hello" in a stylish cursive font.
-
-🌷 Shows my name "This is Nusrat" with a subtle description.
-
-🌷 Message: (Zoom out to know more!)
+🌷 Displays a Message: (Zoom out to know more!)
 
 🌷 On zooming out, 4 sections appear:
 
